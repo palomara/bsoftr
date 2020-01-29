@@ -63,29 +63,27 @@ nav.navbar-transparente {
 .row {
 	padding-top: 100px;
 }
-/* -- Imagem de capa -- */
-.capa {
-	display: table;
-	width: 100%;
-}
 
 .texto-capa {
 	text-align: center;
 	color: #9d9d9d;
 	display: table-cell;
 	vertical-align: middle;
+	padding: 250px;
+	
 }
 
 /* -- Botoes -- */
 .btn-custom {
 	color: white;
 	background-color: #78040b;
-	border-radius: 450px;
-	-webkit-border-radius: 500px;
-    -moz-border-radius: 500px;
+	border-radius: 300px;
+	-webkit-border-radius: 300px;
+    -moz-border-radius: 300px;
     transition: background 0.4s, color 0.4s;
     font-family: 'Borg'; 
     src: url('fonts/borg/Borg.ttf');
+    width: 200px;
 }
 
 
