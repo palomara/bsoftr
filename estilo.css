@@ -80,7 +80,7 @@ nav.navbar-transparente {
 .btn-custom {
 	color: white;
 	background-color: #78040b;
-	border-radius: 500px;
+	border-radius: 450px;
 	-webkit-border-radius: 500px;
     -moz-border-radius: 500px;
     transition: background 0.4s, color 0.4s;
