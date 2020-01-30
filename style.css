@@ -30,7 +30,6 @@ body {
 	display: block;
 	background-size: contain;
 	font-size: 60px;
-	text-align: left;
 	/*color: transparent;*/
 }
 
@@ -64,13 +63,15 @@ nav.navbar-transparente {
 	padding-top: 100px;
 }
 
-.texto-capa {
+.text-cover {
 	text-align: center;
 	color: #9d9d9d;
 	display: table-cell;
 	vertical-align: middle;
-	padding: 250px;
-	
+}
+
+.col-md-4{
+	padding-top: 200px;
 }
 
 /* -- Botoes -- */
